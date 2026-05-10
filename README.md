@@ -30,6 +30,7 @@ Consulta:
 
 ```sql
 SELECT * FROM usuarios WHERE email = 'ana@gmail.com';
+```
 🔎 Diferença entre B-Tree e Hash
 🌳 B-Tree (Árvore B)
 
